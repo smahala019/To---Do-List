@@ -77,7 +77,7 @@ todo-pro
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/todo-pro.git
+git clone https://github.com/smahala019/todo-pro.git
 
 2. Open the project folder
 
